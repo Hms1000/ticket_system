@@ -8,23 +8,22 @@
 * my solution is automating the challenge this team is facing by writing a `javascript` ticketing system that record, organizes, process, search and priotize support tickets.
 
 ### Pseudo Code for adding and processing a ticket
-`
-STUDENT SEND A REQUEST
+`STUDENT SEND A REQUEST`
 
-SUPPORT RECEIVES A REQUEST
+`SUPPORT RECEIVES A REQUEST`
 
-SUPPORT CREATES A TICKET
+`SUPPORT CREATES A TICKET`
 
-SUPPORT RESPONDS TO REQUEST
+`SUPPORT RESPONDS TO REQUEST`
 
-REQUEST IS PROCESSED
+`REQUEST IS PROCESSED`
 
-REQUEST IS PRIOTIZED
+`REQUEST IS PRIOTIZED`
 
-REQUEST IS STORED
+`REQUEST IS STORED`
 
-TICKET IS CLOSED
-`
+`TICKET IS CLOSED`
+
 #### Flow chart for processing a ticket
 
 ![flowchart](flowchart.png)
